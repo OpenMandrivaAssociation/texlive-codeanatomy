@@ -1,6 +1,6 @@
 Name:		texlive-codeanatomy
-Version:	51627
-Release:	2
+Version:	65648
+Release:	1
 Summary:	Typeset code with annotations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/codeanatomy
