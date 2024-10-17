@@ -3,7 +3,7 @@ Version:	65648
 Release:	1
 Summary:	Typeset code with annotations
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/codeanatomy
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/codeanatomy
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/codeanatomy.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/codeanatomy.doc.r%{version}.tar.xz
